@@ -1,0 +1,9 @@
+.country-div{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 1px gray solid;
+}
+.country-div img{
+    width: 150px;
+}
